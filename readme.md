@@ -12,6 +12,10 @@ Para usar la calculadora, simplemente ejecuta el archivo `calculadora.py`. Luego
 - Protección contra división por cero.
 - Interfaz de usuario simple y fácil de usar.
 
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulte el archivo `LICENSE` para obtener más detalles.
+
 ## MIT License
 
 Copyright (c) [2023] [Carmen Pérez]
